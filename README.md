@@ -53,7 +53,7 @@ This application runs using Node JS. You will need to NPM install Inquirer and J
 ## Usage
 
 
- ![screenshot](./images/)
+ ![screenshot](./assets/images/Untitled_%20Nov%2015%2C%202022%2011_23%20PM.gif)
  
 ## License
 MIT License
